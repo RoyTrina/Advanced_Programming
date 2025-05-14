@@ -2,21 +2,21 @@
 
 ## The details
 Year: 2025/26 <br>
-Department: Computer Science and Electronic Engineering (School of)
-Campus: Colchester Campus
-Term: Autumn
-Level: Undergraduate: Level 6
-Status: Current
-Start date: Thursday 02 October 2025
-End date: Friday 12 December 2025
-Credits: 15
-Last updated: 27 March 2025
+Department: Computer Science and Electronic Engineering (School of) <br>
+Campus: Colchester Campus <br>
+Term: Autumn <br>
+Level: Undergraduate: Level 6 <br>
+Status: Current <br>
+Start date: Thursday 02 October 2025 <br>
+End date: Friday 12 December 2025 <br>
+Credits: 15 <br>
+Last updated: 27 March 2025 <br>
 
 ## Requisites for this module
-Pre-requisites: CE152
-Co-requisites: (none)
-Pre and / or co-requisites: (none)
-Prohibited modules: (none)
+Pre-requisites: CE152 <br>
+Co-requisites: (none) <br>
+Pre and / or co-requisites: (none) <br>
+Prohibited modules: (none) <br>
 
 ## Module description 
 This module introduces students to more advanced programming constructs and techniques and build on their knowledge from the first two years. This will include a review of Java, Threads and synchronisation, File I/O sockets, client/server, JSON and web services.
@@ -28,15 +28,15 @@ To introduce students to more advanced programming constructs and techniques and
 ### Module information 
 Outline Syllabus (indicative)
 
-  Java Review
-  Threads and synchronisation
-  File I/O, sockets and client/server
-  JSON and web services
-  Collections . Streams
-  Recursion and program optimisation
-  Design patterns
-  Introduction to functional programming in Haskell
-  Miscellaneous
+  Java Review <br>
+  Threads and synchronisation <br>
+  File I/O, sockets and client/server <br>
+  JSON and web services <br>
+  Collections . Streams <br>
+  Recursion and program optimisation <br>
+  Design patterns <br>
+  Introduction to functional programming in Haskell <br>
+  Miscellaneous <br>
 
 ### Learning outcomes
 By the end of this module, students will be expected to be able to:
@@ -48,8 +48,8 @@ By the end of this module, students will be expected to be able to:
 3. Demonstrate ability to communicate and critically reflect and evaluate strengths and weaknesses of application design and implementation, both generally as well as in relation to own work, and in the context of the constructs and techniques discussed in the module as well as in terms of good software engineering practices more generally.
 
 ## Module supervisor and teaching staff
-Supervisor:
-Teaching staff:
+Supervisor: <br>
+Teaching staff: <br>
 Contact details: School Office, email: csee-schooloffice (non-Essex users should add @essex.ac.uk to create full e-mail address), Telephone 01206 872770(non-Essex users should add @essex.ac.uk to create full e-mail address), Telephone 01206 872770
 
 
