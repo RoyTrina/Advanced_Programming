@@ -52,7 +52,6 @@ Supervisor: <br>
 Teaching staff: <br>
 Contact details: School Office, email: csee-schooloffice (non-Essex users should add @essex.ac.uk to create full e-mail address), Telephone 01206 872770(non-Essex users should add @essex.ac.uk to create full e-mail address), Telephone 01206 872770
 
-
-
+# Source of info: https://www1.essex.ac.uk/modules/Default.aspx?coursecode=CE303&level=6&period=AU&campus=CO&year=25
 
 
