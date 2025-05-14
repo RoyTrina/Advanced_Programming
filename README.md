@@ -1,7 +1,7 @@
 ## CE303 - Advanced Programming
 
 ## The details
-Year: 2025/26
+Year: 2025/26 <br>
 Department: Computer Science and Electronic Engineering (School of)
 Campus: Colchester Campus
 Term: Autumn
